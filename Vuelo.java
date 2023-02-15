@@ -1,6 +1,6 @@
 /*Aldahir Lopez Navarrete
  * 23 de noviembre de 2020
- * Clase que modela un vuelo de un aeropuerto
+ * Esta clase sirve para representar cada vuelo de un aeropuerto
  */
 
 public class Vuelo {
